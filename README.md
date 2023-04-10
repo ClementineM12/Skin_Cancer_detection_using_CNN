@@ -1,7 +1,7 @@
 # Skin_Cancer_detection_using_CNN
 #### In this project, the aim is to classify dermoscopic images into two classes: "Malignant" and "Benign". <br> 
 #### Two approaches were employeed to achieve this goal. <br> 
------------------------------------------------------------------------------------------------------
+__________________________________________________________________________________________________________
 In the first approach, a set of features and descriptors is being calculated for each segmented binary image, <br>
 including border pixel count, non-zero pixel count, circularity, degree of asymmetry, and color histogram. <br>
 These features are used to train a classifier to categorize images into the two classes. <br>
