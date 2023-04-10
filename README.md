@@ -6,8 +6,8 @@ including border pixel count, non-zero pixel count, circularity, degree of asymm
 These features are used to train a classifier to categorize images into the two classes. <br>
 In the second approach, a pre-trained convolutional neural network (CNN) is being utilized to classify <br>
 dermoscopic images. The CNN is trained on a set of images and evaluated on a different set of images. <br>
-Overall, the pre-trained CNN achieved an accuracy of 65% with 400 images, while the classifier <br>
-required specific characteristics of 2000 images in order to achieve the same result. <br>
-This indicates that the pre-trained CNN may be a more efficient approach, as it requires a <br>
-smaller dataset and achieves comparable performance.
+>> Overall, the pre-trained CNN achieved an accuracy of 65% with 400 images, while the classifier <br>
+>> required specific characteristics of 2000 images in order to achieve the same result. <br>
+>> This indicates that the pre-trained CNN may be a more efficient approach, as it requires a <br>
+>> smaller dataset and achieves comparable performance.
 
